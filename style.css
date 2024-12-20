@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+.letter{
+    background-color: rgb(25, 25, 173);
+    width: 40px;
+    height: 40px;
+    margin: 0 15px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+
+}
+.g{
+    background-color: green;
+}
+.l{
+    background-color: rgb(211, 211, 16);
+}
+.e{
+    background-color: rgb(201, 19, 19);
+}
+h1{
+    color: white;
+    margin-top: -2px;
+    font-size: 35px;
+    padding-left: 7px;
+}
